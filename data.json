@@ -1,0 +1,7 @@
+{"alert": [
+    {"sensor1": "0.2", 
+    "sensor2": "0.3",
+    "sensor3": "0.9",
+    "sensor4": "0.6",
+    "sensor5": "5"
+    }]}
